@@ -1,0 +1,71 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/vibrant-summer-ombre-background-vector_53876-105765.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+#Nav{
+    text-align: end;
+    margin-top: -6%;
+    background-color: aliceblue;
+    height: 70px;
+}
+h2{
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+button{
+    border-radius: 30px;
+    width: 7%;
+    height: 30px;
+    font-weight: 600;
+    background-color: darkorange;
+    color: white;
+    margin-right: 20px;
+}
+#Web{
+    font-size: 20px;
+    margin: 9% 8%;
+}
+h3{
+    font-size: 40px;
+}
+/* img{
+    position: absolute;
+    left: 65%;
+    width: 30%;
+    margin-top: -25px;
+} */
+img{
+    float: right;
+    width: 35%;
+    margin-top: -28px;
+    border-radius: 10px;
+}
+#Btn1{
+    width: 15%;
+    height: 40px;
+    border-radius: 30px;
+    text-align: center;
+}#Btn2{
+    width: 15%;
+    height: 40px;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: 2%;
+    background-color: cornflowerblue;
+}
+#Demos{
+    background-color: transparent;
+    border: none;
+    font-size: 15px;
+}
+
+
